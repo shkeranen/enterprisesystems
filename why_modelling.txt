@@ -1,0 +1,23 @@
+1) Goal Modelling
+
+Goal modelling is used to describe the goals of an organization 
+and showing how the goals are interrelated. 
+Moreover, goal models can help to find means to achieve goals 
+and finding influences that have an impact on goals and means.
+
+2) VDML - Value Delivery Modelling Language
+
+"The purpose of VDML is to provide a standard modelling language
+for analysis and design of the operation of an enterprise with
+particulat focus on the creation and exhange of value" 
+- Object Management Group
+
+VDMLs show how products and services are exchanged among participants
+in a network. The goal is to explain how the participants in the
+network are related to each other and how they benefit from participating.
+
+3) REA - Resources, Events and Agenets
+
+REA can add value when modelling ERP business processes by provinding
+a tool which increases the understanding of the implementation
+and underlyinh data model.
